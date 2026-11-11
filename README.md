@@ -1,6 +1,6 @@
 # Juan David Wilches
 
-AI Automation & Integrations Engineer · Colombia (remote, UTC-5) · English C1
+AI Automation & Integrations Engineer · Colombia (remote, UTC-5) · English C2 (EF SET 80/100)
 
 I build integrations and LLM automations end to end, with guardrails and tests. Before that, I spent 14 months as a full stack developer (React, TypeScript, Node.js, SQL Server, Microsoft Entra ID / Graph API).
 
